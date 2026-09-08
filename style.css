@@ -1,0 +1,59 @@
+      h2, h1, h3, p, ul {
+        color: rgb(255, 255,255) 
+        
+      }
+      h1{
+        font-size: 20px;
+      
+      }
+      h3{
+        font-size:15px;
+      }
+    p {
+    font-size: 20px;
+      }
+      #title{
+        font-family:Apple Chancery, cursive;
+        text-align:center;
+      }
+      .game-sections{
+      background-color : rgb(0,0,0);
+      border : 1px solid gray;
+      padding: 10px;
+      margin: 10px 10px;
+        
+      }
+      .game-type{
+        color :yellow;
+      }
+      #Dota2-part{
+        color : Teal;
+        text-align:left;
+      }
+      #Cs-part{
+        color :Teal;
+      }
+      body{
+        background-color : rgb(0,0,0);
+        color: white;
+        font-family: Times New Roman,serif;
+
+      }
+  
+    .main-image{
+      display:block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  .dota-image{
+  display: block;
+  width: 80px;
+  height: 80px;
+  margin: 1px auto ;
+}
+.cs-image{
+  display: block;
+  width: 80px;
+  height: 80px;
+  margin: 1px auto ;
+}
